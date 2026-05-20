@@ -2,11 +2,14 @@
 +.anythinktech.com
 +.icamra.com
 +.aiot99.com
+
 # 国内小程序域名
 +.91taogu.com
 +.baobaohehu.com
 +.51bojun.com
 +.qmxzn.net
++.mandrillvr.com
+
 # ecoflow
 +.ecoflow.com
 
