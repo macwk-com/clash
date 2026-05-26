@@ -2,3 +2,113 @@
 +.pages-gist.com
 +.filefreshgrape.com
 +.melokfolder.com
+
+# Common PCDN
++.bsccdn.net
++.bsclink.cn
++.bsgslb.cn
++.gjfzpt.cn
++.ietheivaicai.com
++.jomodns.cn
++.kuiniuca.com
++.nexusedgeio.com
++.onethingpcs.com
++.pkoplink.com
++.pplive-p2p.com
++.saxysec.com
++.szbdyd.com
++.uhabo.com
++.xycdn.com
++.yfcloud.com
++.pcdn.yximgs.com
++.kspcdn.com
++.ws-p2p.com
+
+# --------- iQIYI (爱奇艺) ---------
++.data-qvs.iqiyi.com
++.tpa-hcdn.iqiyi.com
++.m-pcdn-info.iqiyi.com
++.m-pcdn-info.is.iqiyi.com
++.pcdn-ali.iqiyi.com
++.pcdn-bj.iqiyi.com
++.pcdn-clients.iqiyi.com
++.pcdn-dispatch.iqiyi.com
++.pcdn.iqiyi.com
+
+# --------- Alibaba (Youku, etc. - 优酷) ---------
++.acs.youku.com
++.pcdn.livelive.cn
++.pcdn.volcvideo.com
++.cibn-pcdn.youku.com
++.p2p.youku.com
++.pcdn-ali.youku.com
++.pcdn.youku.com
+
+# --------- Tencent (腾讯) ---------
++.p.tencentmusic.com
++.vlivep2p.tc.qq.com
++.musicps.p2p.qq.com
++.p2p.l.qq.com
++.p2p.qq.com
++.p2p.vod.v.qq.com
++.p2ptun.qq.com
++.p2pupdate.gamedl.qq.com
++.p2pupgrade.gamedl.qq.com
++.twns.p2ptun.qq.com
++.pcdn-a.l.qq.com
++.pcdn-rt.l.qq.com
++.pcdn.l.qq.com
+
+# --------- Bilibili (B站) ---------
++.mcdn.bilivideo.cn
++.p2p.bilibili.com
++.pcdn.bilibili.com
++.upos-bstar-pcdn.bilivideo.com
++.upos-sz-pcdn.bilivideo.com
+
+# --------- Xunlei (迅雷) ---------
++.down.sandai.net
++.hub.p2p.xunlei.com
++.p2p.xunlei.com
++.pcdn.cloud.xunlei.com
+
+# --------- Baidu (百度) ---------
++.d.pcs.baidu.com
++.p.bokecc.com
++.p2p.baidupcs.com
+
+# --------- Douyu / Huya (斗鱼 / 虎牙) ---------
++.p2p.huya.com
++.stun.douyucdn.cn
++.stun.hitv.com
++.stun1.douyucdn.cn
++.dyp2p-ali.douyucdn.cn
++.dyp2p-hw.douyucdn.cn
++.p2p-ali.douyucdn.cn
++.p2pchunk-hw.douyucdn.cn
++.p2pchunk-table.douyucdn.cn
++.p2pchunk-ws.douyucdn.cn
++.p2perrorlog.douyucdn.cn
++.p2plive-ali.douyucdn.cn
++.p2plive-ws.douyucdn.cn
++.p2plog.douyucdn.cn
++.p2pvod-ws.douyucdn.cn
+
+# --------- 其他视频平台 ---------
++.pcdn.xmcdn.com
++.pcdn.ksyun.com
++.pcdn.mgtv.com
++.p2p.wasu.cn
++.pcdn.wasu.cn
++.p2p.cctv.cn
+
+# --------- 游戏平台 ---------
++.p2p.wanmei.com
+
+# --------- 智能硬件 (IoT) ---------
++.gw.smart.jd.com
++.router-app-api.jd.com
++.miwifi.com
++.pandora.xiaomi.com
++.p2p.mi.com
++.data.mistat.xiaomi.com
