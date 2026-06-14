@@ -25,3 +25,4 @@
 +.moji.com
 +.mmstat.com
 +.jlc-jdgf.com
++.pn532.com
