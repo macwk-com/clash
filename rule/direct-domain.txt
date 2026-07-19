@@ -36,3 +36,5 @@
 +.v-club.com
 +.creatorsdaily.com
 +.yixiu.co
++.taoboss.com
++.wayos.com
