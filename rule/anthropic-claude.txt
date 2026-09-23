@@ -1,23 +1,14 @@
 # Anthropic / Claude 域名规则
 # 格式：Mihomo/Clash Meta 的 domain-set 文本源；可直接转换为 .mrs。
-# 自有域名使用 +. 后缀匹配，以覆盖将来新增的子域名。
+# +. 后缀匹配会同时覆盖根域和所有子域名。
 
 # Anthropic 与 Claude 自有域名
-anthropic.com
 +.anthropic.com
-clau.de
 +.clau.de
-claude.ai
 +.claude.ai
-claude.com
 +.claude.com
-# Claude in Chrome / 管理与 API 的公开端点
-platform.claude.com
-claudemcpclient.com
 +.claudemcpclient.com
-claudemcpcontent.com
 +.claudemcpcontent.com
-claudeusercontent.com
 +.claudeusercontent.com
 
 # Anthropic 使用的登录、静态内容和站点托管端点
@@ -26,12 +17,7 @@ anthropic-com.ghost.io
 anthropic.com.cdn.cloudflare.net
 servd-anthropic-website.b-cdn.net
 
-# Anthropic 官方文档列出的遥测端点
-statsig.anthropic.com
-
 # Claude 网页端可能使用的第三方服务
 # 这些服务的实际请求会落在其子域名，故使用后缀匹配。
-sentry.io
 +.sentry.io
-statsigapi.net
 +.statsigapi.net
