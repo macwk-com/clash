@@ -11,5 +11,13 @@
 +.claudemcpcontent.com
 +.claudeusercontent.com
 
-# Anthropic 使用的登录端点
+# Anthropic 使用的登录、静态内容和站点托管端点
 anthropic.auth0.com
+anthropic-com.ghost.io
+anthropic.com.cdn.cloudflare.net
+servd-anthropic-website.b-cdn.net
+
+# Claude 网页端可能使用的第三方服务
+# 这些服务的实际请求会落在其子域名，故使用后缀匹配。
++.sentry.io
++.statsigapi.net
