@@ -1,13 +1,2 @@
-# 抖音补充域名规则
-# 格式：Mihomo/Clash Meta 的 domain-set 文本源；可直接转换为 .mrs。
-# +. 后缀匹配会同时覆盖根域和所有子域名。
-#
-# 配合 MetaCubeX meta-rules-dat 的 geosite/douyin.mrs 使用，只放它缺的域名。
-# 抖音自有域名（douyin.com、amemv.com 等）交给上游维护，这里不重复。
-# 目的：用户把抖音切到国外节点时，抖音的接口请求全部从国外出去，IP 属地才会跟着变。
-# 视频、图片 CDN 不影响 IP 属地，不放进来，继续直连更快。
-
-# 字节跳动共用的接口域名，抖音的一部分接口在这里
-# 豆包、头条等字节产品的统计和广告请求也会用到，会跟着抖音分流
 +.snssdk.com
 +.zijieapi.com
