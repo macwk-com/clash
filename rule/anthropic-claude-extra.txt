@@ -1,0 +1,6 @@
+anthropic.auth0.com
+anthropic-com.ghost.io
+anthropic.com.cdn.cloudflare.net
+
++.sentry.io
++.statsigapi.net
