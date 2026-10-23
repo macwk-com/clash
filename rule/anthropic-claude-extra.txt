@@ -4,3 +4,11 @@ anthropic.com.cdn.cloudflare.net
 
 +.sentry.io
 +.statsigapi.net
++.us5.datadoghq.com
+browser-intake-us5-datadoghq.com
+
++.hcaptcha.com
++.sift.com
++.intercom.io
++.intercomcdn.com
++.usefathom.com
